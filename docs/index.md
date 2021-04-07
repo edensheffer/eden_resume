@@ -21,10 +21,13 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.5 GPA
 
+**You should put your major here, it is probably relevant**
 
 
 ## Related Experience
 
+**Can you give any more relevant experience here? If you need more space consider getting rid of the missionary work (unless you spoke a foreign language)**
+  
 
 ### RBDC Business Consultant
 
@@ -37,6 +40,7 @@ __Research and Business Developement Center__, Consultant
 
 ### Data Science Society
 
+**You have a bit of empty space at the bottom of the page, you should fill this section in with what you did**
 
 ## Service and Work History
 
