@@ -21,12 +21,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.5 GPA
 
-**You should put your major here, it is probably relevant**
+Data Science Major
+Business Management Minor
 
-
-## Related Experience
-
-**Can you give any more relevant experience here? If you need more space consider getting rid of the missionary work (unless you spoke a foreign language)**
   
 
 ### RBDC Business Consultant
@@ -40,13 +37,16 @@ __Research and Business Developement Center__, Consultant
 
 ### Data Science Society
 
-**You have a bit of empty space at the bottom of the page, you should fill this section in with what you did**
+- Defined terms within court data to gain understanding for wrangling. 
+- Narrowed the scope of what questions the data could answer. 
 
 ## Service and Work History
 
 `2020-Current`
 __Small Business Management TA__, BYUI
 
+- Instructed teams of stuendents with consulting small businesses.
+- Assisted Proffesors in grading and evaluating student performance. 
 
 `2017-2019`
 __Service Missionary__, Columbus/Cincinnati, Ohio
