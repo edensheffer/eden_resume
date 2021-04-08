@@ -14,6 +14,13 @@ title: Eden Sheffer's Resume
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+## Related Experience
+
+__Hero Hub__
+- Wrangled survey data using R
+- Created visuals to answer questions as what platform certain products should be sold.
+
+
 ## Education
 
 `Expected 2021`
