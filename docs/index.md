@@ -50,8 +50,8 @@ __Research and Business Developement Center__, Consultant
 
 ### Data Science Society
 
-- Defined terms within court data to gain understanding for wrangling. 
-- Narrowed the scope of what questions the data could answer. 
+- Defined terms within web scraped court data to gain understanding for wrangling. 
+- Narrowed the scope of what questions the data could answer. Focused on what variables caused high contention.  
 
 ## Service and Work History
 
