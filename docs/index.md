@@ -41,6 +41,12 @@ __Research and Business Developement Center__, Consultant
 - Analyzed information given from client and found that the owner did not have enough information to base a decision off of.
 - Researched ways to analyze online presence (SEO) and how to improve business website/social media. 
 
+### Dunes and Company
+
+- Head of R&D ~ researched new products that would increase sales.  
+- CFO completed financial analysis that drove decisions within the company. 
+
+
 
 ### Data Science Society
 
