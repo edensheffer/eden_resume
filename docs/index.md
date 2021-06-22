@@ -44,7 +44,7 @@ __Research and Business Developement Center__, Consultant
 ### Dunes and Company
 
 - Head of R&D ~ researched new products that would increase sales.  
-- CFO completed financial analysis that drove decisions within the company. 
+- Financial Manager completed financial analysis that drove decisions within the company. 
 
 
 
