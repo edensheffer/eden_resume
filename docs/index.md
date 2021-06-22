@@ -58,7 +58,7 @@ __Research and Business Developement Center__, Consultant
 `2020-Current`
 __Small Business Management TA__, BYUI
 
-- Instructed teams of stuendents with consulting small businesses.
+- Instructed teams of students with consulting small businesses.
 - Assisted Proffesors in grading and evaluating student performance. 
 
 `2017-2019`
